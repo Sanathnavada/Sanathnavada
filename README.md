@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sanathnavada
-- 👀 I’m interested in ...Web dev,App dev,and machine learning
-- 🌱 I’m currently learning ...data sciences and ML
-- 📫 How to reach me -> email - sanathnavada@gmail.com
+- I’m @Sanathnavada
+- Interested in Web dev,App dev,and machine learning
+- currently learning data sciences and ML using python 
+- email - sanathnavada@gmail.com
 
 <!---
 Sanathnavada/Sanathnavada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
