@@ -1,6 +1,6 @@
 - I’m @Sanathnavada
-- Interested in Web dev,App dev,and machine learning
-- currently learning data sciences and ML using python 
+- Interested in Web dev,App dev,and Machine Learning
+- currently learning Full Stack Develpment using python 
 - email - sanathnavada@gmail.com
 
 <!---
