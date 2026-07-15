@@ -32,7 +32,6 @@ Currently exploring the intersection of **data science**, **backend engineering*
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
 | **[Code](https://github.com/Sanathnavada/Code)** | Modular backend services & data processing pipelines | Python | 🔄 Active |
-| **[Documentation](https://github.com/Sanathnavada/Documentation)** | Comprehensive DSA & ML concepts documentation | DSA, ML Theory | 🔄 In Progress |
 | **[RNSPORTAL](https://github.com/Sanathnavada/RNSPORTAL)** | Full-stack web application | JavaScript, Frontend | ✅ Complete |
 
 ### **📖 Educational Projects**
